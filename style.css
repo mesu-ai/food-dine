@@ -15,6 +15,14 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 
+
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
+
 .flexiable-nav{
     background-color: rgb(226, 215, 193);
     margin: 15px;
@@ -50,9 +58,14 @@ body{
     width: 50%;
 }
 
-h1{
-    font-size: 40px;
+.background2{
+    margin: 0;
+    background-image:url(images/frame/Frame2.jpg);
+    background-repeat: no-repeat;
+    background-position: left;
 }
+
+
 .span1{
     color: orangered;
 }
