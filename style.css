@@ -1,0 +1,50 @@
+body{
+
+    margin: 0;
+}
+#font-1{
+    font-family: 'Poppins', sans-serif;
+}
+#font-2{
+    font-family: 'Lobster', cursive;
+}
+#font-3{
+    font-family: 'Aguafina Script', cursive;
+}
+#font-4{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.flexiable-nav{
+    background-color: rgb(226, 215, 193);
+    margin: 15px;
+    padding: 20px;
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+}
+.flexiable-nav > div > a{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+    font-size: 20px;
+    margin: 10px;
+    padding: 10px;
+
+}
+
+.flexiable-nav > div > a:hover{
+    background-color: green;
+    color: white;
+}
+
+.flex-container{
+
+    display: flex;
+    margin: 20px;
+}
+.half-width{
+    width: 50%;
+}
