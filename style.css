@@ -51,16 +51,19 @@ p{
 .flex-container{
 
     display: flex;
-    margin: 20px;
     padding-left: 6%;
+    
 }
 .half-width{
     width: 50%;
 }
 
 .background2{
-    margin: 0;
-    background-image:url(images/frame/Frame2.jpg);
+    
+    padding-right: 6%;
+    
+
+    background-image:url(images/frame/Frame1.jpg);
     background-repeat: no-repeat;
     background-position: left;
 }
