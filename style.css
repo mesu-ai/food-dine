@@ -44,7 +44,32 @@ body{
 
     display: flex;
     margin: 20px;
+    padding-left: 6%;
 }
 .half-width{
     width: 50%;
 }
+
+h1{
+    font-size: 40px;
+}
+.span1{
+    color: orangered;
+}
+
+.button1{
+    
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(rgb(255, 0, 0), rgb(51, 2, 2));
+    
+    border-radius: 10px;
+    box-shadow: 10px 5px 10px 5px red;
+     
+
+
+}
+
