@@ -117,9 +117,11 @@ h2{
 .background2{
 
     
-    padding-right: 6%;
+    
     background-image:url(images/frame/Frame3.jpg);
     background-repeat: no-repeat;
+    
+    background-size: cover;
     
 }
 
