@@ -22,6 +22,9 @@ h1{
 p{
     font-size: 20px;
 }
+h2{
+    font-size: 35px;
+}
 
 .flexiable-nav{
     background-color: rgb(226, 215, 193);
@@ -92,7 +95,8 @@ p{
     display: flex;
     flex-flow: wrap row;
     
-    justify-content:space-around;
+    
+    justify-content:center;
     align-items: center;
 
 
@@ -135,4 +139,18 @@ p{
     width: 100%;
 }
 
+.recipe{
+    text-align: center;
+
+
+}
+
+.footer{
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+ background-color: rgb(1, 11, 32);
+ text-align: center;
+
+}
 
