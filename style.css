@@ -53,19 +53,60 @@ p{
     display: flex;
     padding-left: 6%;
     
+    
+    
+}
+.flex-container1{
+
+    margin: 5%;
+    display: flex;
+    
 }
 .half-width{
     width: 50%;
 }
 
-.background2{
-    
-    padding-right: 6%;
+.third-width{
     
 
-    background-image:url(images/frame/Frame1.jpg);
+    width: 30%;
+    padding: 20px;
+    margin: 2.5%;
+
+    text-align: justify;
+
+
+    border-radius: 20px;
+
+    border: 3px solid rgb(248, 66, 11);
+    
+    box-shadow: 5px 2px 15px 8px green ;
+    
+    
+
+}
+
+.center{
+
+    
+    display: flex;
+    flex-flow: wrap row;
+    
+    justify-content:space-around;
+    align-items: center;
+
+
+
+
+}
+
+.background2{
+
+    
+    padding-right: 6%;
+    background-image:url(images/frame/Frame3.jpg);
     background-repeat: no-repeat;
-    background-position: left;
+    
 }
 
 
@@ -88,4 +129,10 @@ p{
 
 
 }
+
+.img-adjust{
+
+    width: 100%;
+}
+
 
